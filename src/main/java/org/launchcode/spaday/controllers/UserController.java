@@ -24,7 +24,7 @@ public class UserController {
         if (errors.hasErrors()) {
             return "user/add";
         }
-            return "user/index";
+        return "user/index";
     }
 
 

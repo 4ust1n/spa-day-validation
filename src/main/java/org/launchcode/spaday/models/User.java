@@ -24,9 +24,7 @@ public class User {
     private String verifyPassword;
 
 
-    public User() {
-
-    }
+    public User() {}
 
     public User(String username, String email, String password, String verifyPassword) {
         this();
